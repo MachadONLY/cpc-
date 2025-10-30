@@ -482,19 +482,19 @@
     ]
   },
   "packageFolders": {
-    "/home/ubuntu/.nuget/packages/": {}
+    "/home/gteixeir/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/LivrosApi/LivrosApi.csproj",
+      "projectUniqueName": "/home/gteixeir/Downloads/LivrosApi/LivrosApi.csproj",
       "projectName": "LivrosApi",
-      "projectPath": "/home/ubuntu/LivrosApi/LivrosApi.csproj",
-      "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/LivrosApi/obj/",
+      "projectPath": "/home/gteixeir/Downloads/LivrosApi/LivrosApi.csproj",
+      "packagesPath": "/home/gteixeir/.nuget/packages/",
+      "outputPath": "/home/gteixeir/Downloads/LivrosApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        "/home/gteixeir/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -512,6 +512,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -546,7 +551,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
