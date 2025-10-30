@@ -1,5 +1,8 @@
 # LivrosApi: API de Gerenciamento de Livros
 
+### Camila do Prado Padalino - RM98316
+### Gabriel Teixeira Machado - RM551570
+
 ## 📚 Tema Escolhido e Funcionalidade
 
 O tema escolhido para esta aplicação Web API é **Gerenciamento de Livros** (Book Management).
