@@ -2,6 +2,8 @@
 
 ### Camila do Prado Padalino - RM98316
 ### Gabriel Teixeira Machado - RM551570
+### Lucas Pisaneschi Speranzini - RM98297
+### João Pedro de Souza Vieira - RM99805
 
 ## 📚 Tema Escolhido e Funcionalidade
 
